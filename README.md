@@ -8,7 +8,7 @@ On the terminal, create a new file for the script and make it executable
 	$ touch script.swift
 	$ chmod +x script.swift
 
-To make use of the Swift interpreter on runtime, the first line of the script file must be
+To make use of the Swift interpreter, the first line of the script file must be
 
 	#!/usr/bin/swift
 	
