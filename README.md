@@ -32,7 +32,7 @@ the `CommandLine.arguments` will be
 Use`dump(CommandLine.arguments)` to output its contents to the terminal.
 
 ### Path
-To get the path from where the script is called, you ust first import the `Foundation` framework of macOS and then make use of its `FileManager` object.
+To get the path from where the script is called, import the `Foundation` framework of macOS and make use of its `FileManager` object.
 
 	import Foundation
 	let pwd = FileManager.default.currentDirectoryPath
